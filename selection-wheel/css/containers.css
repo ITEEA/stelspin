@@ -1,0 +1,30 @@
+/* //////////////// */
+/* / Requirements / */
+/* //////////////// */
+
+/* //////////////// */
+
+
+
+/* /////////////////////// */
+/* / Properties.Targeted / */
+/* /////////////////////// */
+
+/* styling for the overarching wheel containers. */
+
+div.selection-wheel {
+	/* fixing this would require a re-code. I do not have time; too much school */
+	cursor: pointer;
+
+	margin: 0;
+	padding: 0;
+
+	width: 100%;
+	height: 100%;
+
+	display: none;
+
+	position: relative;
+}
+
+/* /////////////////////// */
