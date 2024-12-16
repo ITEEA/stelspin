@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 391.16 391.16">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #6d6e71;
+        stroke-width: .5px;
+      }
+
+      .st0, .st1 {
+        stroke-miterlimit: 10;
+      }
+
+      .st2, .st3, .st4, .st5 {
+        fill: #231f20;
+      }
+
+      .st2, .st3, .st5 {
+        font-family: Avenir-Heavy, Avenir;
+      }
+
+      .st6 {
+        fill: #f1f2f2;
+        font-family: Arial-Black, Arial;
+        font-size: 12px;
+      }
+
+      .st6, .st4, .st7 {
+        font-weight: 800;
+      }
+
+      .st8 {
+        fill: #c42126;
+      }
+
+      .st9 {
+        font-size: 12px;
+      }
+
+      .st9, .st10, .st11, .st12, .st13 {
+        fill: #15467b;
+      }
+
+      .st9, .st10, .st12, .st13 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st1 {
+        stroke: #231f20;
+        stroke-width: .25px;
+      }
+
+      .st1, .st14 {
+        fill: #c4161c;
+      }
+
+      .st3 {
+        letter-spacing: 0em;
+      }
+
+      .st15 {
+        fill: url(#radial-gradient);
+      }
+
+      .st4 {
+        font-family: Avenir-HeavyOblique, Avenir;
+        font-size: 7px;
+        font-style: oblique;
+      }
+
+      .st16 {
+        fill: url(#radial-gradient1);
+      }
+
+      .st5 {
+        letter-spacing: 0em;
+      }
+
+      .st10 {
+        font-size: 12px;
+      }
+
+      .st14 {
+        font-family: Avenir-Black, Avenir;
+      }
+
+      .st17 {
+        fill: #fff;
+        font-family: Avenir-Medium, Avenir;
+        font-size: 9px;
+        font-weight: 500;
+      }
+
+      .st7 {
+        font-size: 8px;
+      }
+
+      .st12 {
+        font-size: 12px;
+      }
+
+      .st13 {
+        font-size: 12px;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="195.77" cy="194.34" fx="195.77" fy="194.34" r="192.27" gradientTransform="translate(-57.6 86.07) rotate(-21.4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".38" stop-color="#fefcfd"/>
+      <stop offset=".56" stop-color="#fdf5f6"/>
+      <stop offset=".69" stop-color="#fce8ea"/>
+      <stop offset=".81" stop-color="#fad6da"/>
+      <stop offset=".91" stop-color="#f7bec4"/>
+      <stop offset="1" stop-color="#f4a2ab"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient1" cx="198.28" cy="197.85" fx="198.28" fy="197.85" r="47.51" gradientTransform="translate(.59 -2.03) rotate(-.05)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".16" stop-color="#f9fcfd"/>
+      <stop offset=".36" stop-color="#e9f7fa"/>
+      <stop offset=".59" stop-color="#cfedf4"/>
+      <stop offset=".84" stop-color="#abdfeb"/>
+      <stop offset="1" stop-color="#8fd5e5"/>
+    </radialGradient>
+  </defs>
+  <polygon class="st8" points="107.13 391.16 0 272.4 0 110.91 118.75 0 280.7 0 391.16 118.75 391.16 280.74 272.4 391.16 107.13 391.16"/>
+  <polygon class="st15" points="118.74 371.83 16.62 265.87 19.33 118.74 125.28 16.62 272.73 18.51 374.54 125.28 371.83 272.41 265.87 374.53 118.74 371.83"/>
+  <path class="st0" d="M162.67,159.27"/>
+  <path class="st0" d="M199.29,144.92"/>
+  <path class="st0" d="M296.95,101.38"/>
+  <path class="st0" d="M235.34,160.67"/>
+  <path class="st0" d="M335.18,198.94"/>
+  <path class="st0" d="M249.69,197.29"/>
+  <path class="st0" d="M233.94,233.34"/>
+  <path class="st0" d="M293.23,294.95"/>
+  <path class="st0" d="M195.67,333.18"/>
+  <path class="st0" d="M197.32,247.69"/>
+  <path class="st0" d="M161.27,231.94"/>
+  <path class="st0" d="M146.92,195.32"/>
+  <line class="st0" x1="19.33" y1="118.74" x2="151.89" y2="176.07"/>
+  <line class="st0" x1="125.39" y1="16.58" x2="179.62" y2="148.29"/>
+  <line class="st0" x1="272.73" y1="18.51" x2="216.73" y2="152.87"/>
+  <line class="st0" x1="374.52" y1="125.23" x2="241.83" y2="177.25"/>
+  <line class="st0" x1="371.83" y1="272.41" x2="246.67" y2="215.24"/>
+  <line class="st0" x1="265.92" y1="374.52" x2="218.94" y2="243.02"/>
+  <line class="st0" x1="118.74" y1="371.83" x2="179.69" y2="243.05"/>
+  <line class="st0" x1="16.62" y1="265.86" x2="151.92" y2="215.32"/>
+  <text class="st6" transform="translate(159.56 13.57) rotate(.94)"><tspan x="0" y="0">PRACTICES</tspan></text>
+  <text class="st12" transform="translate(68.74 89.99) rotate(-44.87)"><tspan x="0" y="0">Attention </tspan><tspan x="2.66" y="14.4">to Ethics</tspan></text>
+  <text class="st12" transform="translate(167.63 29.8) rotate(.53)"><tspan x="0" y="0">Systems</tspan><tspan x="-.31" y="14.4">Thinking</tspan></text>
+  <g>
+    <text class="st10" transform="translate(30.73 161.01) rotate(-89.29)"><tspan x="0" y="0">n</tspan></text>
+    <text class="st10" transform="translate(30.64 167.67) rotate(-89.29)"><tspan x="0" y="0">o</tspan></text>
+    <text class="st10" transform="translate(30.61 170.34) rotate(-89.29)"><tspan x="0" y="0">i</tspan></text>
+    <text class="st10" transform="translate(30.57 173.68) rotate(-89.29)"><tspan x="0" y="0">t</tspan></text>
+    <text class="st10" transform="translate(30.49 180.35) rotate(-89.29)"><tspan x="0" y="0">a</tspan></text>
+    <text class="st10" transform="translate(30.41 186.35) rotate(-89.29)"><tspan x="0" y="0">c</tspan></text>
+    <text class="st10" transform="translate(30.38 189.01) rotate(-89.29)"><tspan x="0" y="0">i</tspan></text>
+    <text class="st10" transform="translate(30.3 195.68) rotate(-89.29)"><tspan x="0" y="0">n</tspan></text>
+    <text class="st10" transform="translate(30.21 202.35) rotate(-89.29)"><tspan x="0" y="0">u</tspan></text>
+    <text class="st10" transform="translate(30.09 212.35) rotate(-89.29)"><tspan x="0" y="0">m</tspan></text>
+    <text class="st10" transform="translate(29.97 222.34) rotate(-89.29)"><tspan x="0" y="0">m</tspan></text>
+    <text class="st10" transform="translate(29.89 229.01) rotate(-89.29)"><tspan x="0" y="0">o</tspan></text>
+    <text class="st10" transform="translate(29.78 237.68) rotate(-89.29)"><tspan x="0" y="0">C</tspan></text>
+  </g>
+  <text class="st13" transform="translate(107.13 331.56) rotate(-135.5)"><tspan x="0" y="0">Collaboration</tspan></text>
+  <text class="st10" transform="translate(325.87 298.79) rotate(136.33)"><tspan x="0" y="0">Critical</tspan><tspan x="-4.66" y="14.4">Thinking</tspan></text>
+  <text class="st9" transform="translate(291.1 62.37) rotate(44.51)"><tspan x="0" y="0">Creativity</tspan></text>
+  <text class="st10" transform="translate(359.76 157.41) rotate(89.29)"><tspan x="0" y="0">Making and</tspan><tspan x="16.01" y="14.4">Doing</tspan></text>
+  <text class="st10" transform="translate(220.36 355.85) rotate(-177.81)"><tspan x="0" y="0">Optimism</tspan></text>
+  <text class="st17" transform="translate(144.58 383.37) rotate(1.11)"><tspan x="0" y="0">© www.iteea.org (2020) </tspan></text>
+  <circle class="st11" cx="199.31" cy="201.59" r=".62"/>
+  <g>
+    <polygon class="st16" points="179.69 243.05 151.4 214.66 151.77 175.41 179.62 148.29 218.87 148.26 246.64 176 246.67 215.24 218.94 243.02 179.69 243.05"/>
+    <polygon class="st0" points="179.69 243.05 151.4 214.66 151.77 175.41 179.62 148.29 218.87 148.26 246.64 176 246.67 215.24 218.94 243.02 179.69 243.05"/>
+    <text class="st7" transform="translate(173.84 161.67) rotate(-.05)"><tspan class="st14" x="0" y="0">S</tspan><tspan class="st3" x="4.59" y="0">tandards for</tspan><tspan class="st14" x="-9.64" y="9.6">T</tspan><tspan class="st2" x="-5.04" y="9.6">echnological and </tspan><tspan class="st14" x="-13.2" y="19.2">E</tspan><tspan class="st2" x="-8.16" y="19.2">ngineering </tspan><tspan class="st14" x="34.52" y="19.2">L</tspan><tspan class="st5" x="38.81" y="19.2">iteracy</tspan></text>
+    <text class="st4" transform="translate(165.19 209.05) rotate(-.05)"><tspan x="0" y="0">Defining the Role of </tspan><tspan x="7" y="8.4">Technology and </tspan><tspan x="9.32" y="16.8">Engineering in </tspan><tspan x="7.32" y="25.2">STEM Education</tspan></text>
+    <g>
+      <path class="st1" d="M183.45,189.68c-.49-1.36-1.74-1.92-4-1.91-3.03,0-4.33.67-4.33,1.85,0,1.56,1.58,1.67,4.37,1.66,3.85,0,6.54.3,6.54,3.45,0,2.38-1.93,4.07-6.71,4.07-2.38,0-3.55-.21-4.43-.61-1.52-.71-2.26-1.65-2.44-3.4h2.45c.2,1.47,1.99,2.15,4.57,2.14,2.63,0,4.21-.74,4.21-2.15,0-1.33-1.77-1.54-3.82-1.54-.48,0-.91.02-1.36.02-2.15,0-5.77-.07-5.77-3.62,0-2.26,1.77-3.71,6.7-3.71,4.14,0,5.77,1.23,6.26,3.67l-2.24.07Z"/>
+      <polygon class="st1" points="199.69 188.41 194.44 188.42 194.45 198.41 192.21 198.42 192.2 188.42 186.97 188.42 186.97 186.33 199.69 186.32 199.69 188.41"/>
+      <polygon class="st1" points="214.19 188.22 203.69 188.23 203.69 191.22 212.99 191.22 212.99 193.15 203.69 193.16 203.7 196.31 214.43 196.3 214.43 198.4 201.46 198.41 201.45 186.32 214.19 186.31 214.19 188.22"/>
+      <polygon class="st1" points="218.48 196.16 228.09 196.15 228.09 198.39 216.25 198.4 216.24 186.3 218.48 186.3 218.48 196.16"/>
+    </g>
+  </g>
+</svg>
