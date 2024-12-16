@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+
+		<title>Selection Wheel</title>
+
+		<!-- //////////////////// -->
+		<!-- / General.MetaData / -->
+		<!-- //////////////////// -->
+
+		<meta name="description" content="Example usage of the Selection Wheel System." />
+		<meta name="author" content="Joshua E. Warren"/>
+
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1"/>
+
+		<!-- //////////////////// -->
+
+
+
+		<!-- /////////////// -->
+		<!-- / Imports.CSS / -->
+		<!-- /////////////// -->
+
+		<style>
+			@import "/selection-wheel/css/containers.css";
+			@import "/selection-wheel/css/images.css";
+		</style>
+
+		<!-- /////////////// -->
+
+		<!-- ////////////// -->
+		<!-- / Imports.JS / -->
+		<!-- ////////////// -->
+
+		<script>
+			async function __loader () {
+				(await import("/selection-wheel/js/management/loading-management.mjs")).load();
+			}
+		</script>
+
+		<!-- ////////////// -->
+	</head>
+
+	<body onload="__loader();">
+		<div>
+			Hello World!
+		</div>
+
+		<hr />
+
+		<div style="width: 700px; height: 700px; margin: auto;">
+			<div class="selection-wheel">
+				<img src="./assets/1 Large.svg"  scale="700" sides="8"/>
+				<img src="./assets/2 Medium.svg" scale="500" sides="8"/>
+				<img src="./assets/3 Small.svg"  scale="300" sides="8"/>
+			</div>
+		</div>
+
+		<hr />
+
+		<div>
+			Goodbye World!
+		</div>
+	</body>
+</html>
