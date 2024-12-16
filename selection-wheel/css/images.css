@@ -1,0 +1,62 @@
+/* //////////////// */
+/* / Requirements / */
+/* //////////////// */
+
+/* this actually causes a double import... */
+
+@import "/selection-wheel/css/containers.css";
+
+/* //////////////// */
+
+
+
+/* /////////////////////// */
+/* / Properties.Targeted / */
+/* /////////////////////// */
+
+/* styling for the polygon image objects themselves. */
+
+div.selection-wheel > img {
+	--sides: 0;
+	--scale: 0;
+	--angle: 0;
+}
+
+div.selection-wheel > img {
+	user-drag: none;
+	user-select: none;
+	pointer-events: none;
+
+	-webkit-user-drag: none;
+
+	-ms-user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+}
+
+
+
+div.selection-wheel > img {
+	margin: 0;
+	padding: 0;
+
+	display: block;
+
+	position: absolute;
+}
+
+div.selection-wheel > img {
+	width: calc(var(--scale) * 1px);
+	height: auto;
+
+	left: calc(50% - var(--scale) * 0.5 * 1px);
+	top: calc(50% - var(--scale) * 0.5 * 1px);
+}
+
+div.selection-wheel > img {
+	transform: rotate( calc(var(--angle) * 1rad) );
+
+	transition: transform 0.5s;
+}
+
+/* /////////////////////// */
